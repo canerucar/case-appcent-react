@@ -1,0 +1,24 @@
+.detail-wrapper {
+  @apply flex flex-col mx-2;
+  @apply lg:flex-row lg:mx-0;
+
+  &-image {
+    @apply lg:mr-4;
+  }
+
+  &-section {
+    @apply max-w-lg;
+
+    &__title {
+      @apply text-xl font-semibold;
+    }
+
+    &__link {
+      @apply px-5 py-2 bg-green-400 inline-block mt-3 rounded-2xl text-white font-semibold;
+    }
+
+    &__item {
+      @apply mb-2;
+    }
+  }
+}

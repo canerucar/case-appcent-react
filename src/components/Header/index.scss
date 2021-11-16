@@ -1,0 +1,19 @@
+.header-wrapper {
+  @apply h-16 bg-green-400 flex items-center justify-between px-9 mb-5;
+
+  &-logo {
+    @apply w-24 hidden;
+    @apply md:block
+  }
+
+  &-menu {
+    &__nav {
+      @apply flex gap-4;
+
+      .link {
+        @apply bg-green-600 py-2 px-3 text-white rounded-md transition;
+        @apply hover:shadow-md;
+      }
+    }
+  }
+}

@@ -1,0 +1,6 @@
+.home-wrapper {
+  &-header {
+    @apply h-36 bg-blue-400 mb-5 text-base flex items-center justify-center;
+    @apply lg:text-5xl;
+  }
+}
