@@ -14,4 +14,6 @@
   - REACT_APP_BASE_URL=https://api.themoviedb.org/3
 - `npm run start`
 
+#### Click to see the live version of the project : https://appcent-react.vercel.app/
+
 #### Thank you for your time 🥳🥳🥳🥳
