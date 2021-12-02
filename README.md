@@ -1,4 +1,4 @@
-## The project where the most popular movies are listed.
+## The project where the most popular movies are listed 🥳🥳🥳
 
 #### Used technologies
 
@@ -16,4 +16,4 @@
 
 #### Click to see the live version of the project : https://appcent-react.vercel.app/
 
-#### Thank you for your time 🥳🥳🥳🥳
+#### Thank you for your time 🥳🥳🥳
